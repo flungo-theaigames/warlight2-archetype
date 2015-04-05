@@ -1,0 +1,17 @@
+<archetype>
+    <id>warlight2-archetype</id>
+    <sources>
+        <source>src/main/java/bot/Bot.java</source>
+        <source>src/main/java/bot/BotParser.java</source>
+        <source>src/main/java/bot/BotStarter.java</source>
+        <source>src/main/java/bot/BotState.java</source>
+        <source>src/main/java/map/Map.java</source>
+        <source>src/main/java/map/Region.java</source>
+        <source>src/main/java/map/SuperRegion.java</source>
+        <source>src/main/java/move/AttackTransferMove.java</source>
+        <source>src/main/java/move/Move.java</source>
+        <source>src/main/java/move/PlaceArmiesMove.java</source>
+    </sources>
+    <testSources>
+    </testSources>
+</archetype>
